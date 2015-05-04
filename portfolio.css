@@ -14,16 +14,14 @@ body{
   list-style: none;
   font-size: 25 px;
   text-align: center;
-  padding: 0;
-  margin: 0;
 }
 .nav li {
     display: inline-block;
     line-height: 40px;
     height: 40px;
     border-botton: 1px solid black
-
 }
+
 .nav a{
   font-size: 40px;
   color: purple;
@@ -45,12 +43,4 @@ body{
   float: left;
   margin: 10px;
   padding: 10px;
-}
-
-
-.aboutme{
-  float: left;
-  padding: 2em;
-  font-size: 14px;
-  font-family:'raleway';
 }
