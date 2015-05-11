@@ -7,7 +7,7 @@ body{
   font-family: 'pacifico';
   font-size: 80px;
   text-align: center;
-  border-bottom: 1px solid black;
+  line-height: 50px;
 }
 .nav ul{
   font-family: 'pacifico';
@@ -19,7 +19,6 @@ body{
     display: inline-block;
     line-height: 40px;
     height: 40px;
-    border-botton: 1px solid black
 }
 
 .nav a{
@@ -42,5 +41,5 @@ body{
 .pic{
   float: left;
   margin: 10px;
-  padding: 10px;
+  padding: 20px;
 }
